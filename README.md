@@ -1,8 +1,6 @@
 # 📝 Sistema Lista de Tarefas (***TESTE***)
 
-Sistema web para **cadastro, edição, exclusão e ordenação de tarefas**, desenvolvido conforme especificação fornecida, sem funcionalidades extras.
-
-O objetivo do projeto é aplicar conceitos de **persistência de dados**, **CRUD**, **ordenação de registros** e **boas práticas básicas em PHP com MySQL**.
+Sistema web para **cadastro, edição, exclusão e ordenação de tarefas**.
 
 ---
 
