@@ -51,7 +51,7 @@ th {
 .modal { 
     display: none; 
     position: fixed; 
-    z-index: 1; 
+    z-index: 1000; 
     left: 0; 
     top: 0; 
     width: 100%; 
@@ -63,8 +63,9 @@ th {
     background: white; 
     margin: 10% auto; 
     padding: 20px; 
-    width: 300px; 
-    border-radius: 8px; 
+    width: 400px; 
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
 input { 
@@ -78,4 +79,5 @@ input {
     display: flex; 
     justify-content: space-between; 
     margin-top: 15px; 
+
 }
